@@ -1,0 +1,4 @@
+data_release_notes_of_Eerola_et_al_2013.pdf (application/pdf) 34454 bytes.
+design_matrix.tab (text/tab-separated-values) 3554 bytes.
+mean_emotion_ratings.tab (text/tab-separated-values) 6016 bytes.
+stimuli (application/octet-stream) 509128639 bytes.
